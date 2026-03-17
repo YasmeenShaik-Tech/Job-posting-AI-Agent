@@ -46,3 +46,9 @@ It uses GPT-4o by default so you should have access to that to run it.
   - `src/job_posting/config/agents.yaml`: Configuration file for defining agents.
   - `src/job_posting/config/tasks.yaml`: Configuration file for defining tasks.
   - `src/job_posting/tools`: Contains tool classes used by the agents.
+
+---
+
+## License
+
+This project is released under the MIT License.
